@@ -20,23 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Generativa: Uma abordagem completa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book busca explicar as funcionalidades da IA Generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chatgpt para a roteirização;
+LeonardoAI para a geração de imagens;
+Word para edição de texto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o Chatgpt para revisar minha pesquisa sobre IAs Generativas, organizar o conteúdo e aprimorar minhas ideias. Por sua vez, o LeonardoAI foi empregado para criar imagens exclusivas para nosso e-book. Por fim, a montagem final foi realizada no Word, uma ferramenta para edição de texto.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[IA Generativa.docx](https://github.com/user-attachments/files/17791082/IA.Generativa.docx)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A proposta foi interessante para entender como funciona o processo das IAs.
 
 ### Exemplos e Insigths
 
